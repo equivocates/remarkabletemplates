@@ -1,6 +1,5 @@
 # remarkabletemplates
-Custom Templates for the Remarkable Tablet
-Add to your templates.json:
+Custom Templates for the Remarkable Tablet. Add to your templates.json:
 
     {
       "name": "3-Weekplanner",
