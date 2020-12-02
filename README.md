@@ -1,4 +1,4 @@
-# remarkabletemplates
+# Remarkable Templates
 Custom Templates for the Remarkable Tablet. Add to your templates.json:
 
     {
